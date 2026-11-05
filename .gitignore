@@ -1,0 +1,12 @@
+# Haskell build files
+dist/
+dist-newstyle/
+*.hi
+*.o
+
+# IDE files
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
